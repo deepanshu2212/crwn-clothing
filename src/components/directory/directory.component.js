@@ -5,7 +5,7 @@ import hats from '../../assets/hats.jpg';
 import suits from '../../assets/suits.jpg';
 import sneaker from '../../assets/sneakers.jpg';
 import men from '../../assets/men.jpg';
-import women from '../../assets/women.jpg';
+import women from '../../assets/women2.jpg';
 
 class Directory extends React.Component {
     constructor(){
